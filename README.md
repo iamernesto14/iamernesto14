@@ -9,7 +9,9 @@ I am a Frontend Developer based in Accra, Ghana, currently learning and working 
 
 - 🌍 Living in: Accra, Ghana
 - 💼 Working at: Amalitech Ghana
-- 🔭 Currently learning: AWS re/Start Program with Amalitech Ghana
+- 🔭 Currently learning: AWS re/Start Program with Amalitech Ghana and TypeScript
+- 💬 Ask me about Web Development
+- ⚡ Fun fact: I spend more time with the computer than with actual people
 - 🎵 Interests: Music, Barcelona fan
 
 ## Skills
@@ -36,8 +38,8 @@ I am a Frontend Developer based in Accra, Ghana, currently learning and working 
 ## Get in Touch
 
 - **Email:** [eernesto211@gmail.com](mailto:eernesto211@gmail.com)
-- **LinkedIn:** [Ernest Anokye](https://www.linkedin.com/in/ernesto-anokye/)
-- **Twitter:** [@iamernesto14](https://x.com/iamernesto14)
+- **LinkedIn:**[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-anokye/)
+- **Twitter:**[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamernesto14) 
 
 ## GitHub Stats
 
