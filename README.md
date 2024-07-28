@@ -19,14 +19,6 @@ I am a Frontend Developer based in Accra, Ghana, currently learning and working 
 - **Databases:** MySQL
 - **Other Tools:** Git
 
-## Projects
-
-### [Project 1](https://github.com/iamernesto14/project1)
-Brief description of the project, technologies used, and its purpose.
-
-### [Project 2](https://github.com/iamernesto14/project2)
-Brief description of the project, technologies used, and its purpose.
-
 ## Experience
 
 ### AWS re/Start Program with Amalitech Ghana
@@ -52,6 +44,8 @@ Brief description of the project, technologies used, and its purpose.
 ![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamernesto14&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamernesto14&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iamernesto14&theme=dark&hide_border=true)
 
 ---
 
