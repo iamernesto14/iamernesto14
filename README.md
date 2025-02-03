@@ -5,11 +5,10 @@
 
 ## About Me
 
-I am a Frontend Developer based in Accra, Ghana, currently learning and working with Amalitech Ghana through the AWS re/Start program. With a background in computer science, I have been working on cloud engineering and development projects. I love music and am a huge Barcelona fan.
+I am a Frontend Developer based in Accra, Ghana, currently learning and TypeScript. With a background in Economics, I have been working on frontend development projects. I love music and am a huge Barcelona fan.
 
 - 🌍 Living in: Accra, Ghana
-- 💼 Working at: Amalitech Ghana
-- 🔭 Currently learning: AWS re/Start Program with Amalitech Ghana and TypeScript
+- 🔭 Currently learning: TypeScript
 - 💬 Ask me about Web Development
 - ⚡ Fun fact: I spend more time with the computer than with actual people
 - 🎵 Interests: Music, Barcelona fan
@@ -28,15 +27,15 @@ I am a Frontend Developer based in Accra, Ghana, currently learning and working 
 ## Experience
 
 ### AWS re/Start Program with Amalitech Ghana
-**Cloud Engineer Trainee**
+**Cloud Practitioner Trainee**
 - Working with AWS SDK for Python
 - Interacting with various AWS services
 - Developing and deploying cloud-based solutions
 
 ## Education
 
-- **Degree:** Bsc Computer Science
-- **Field of Study:** Computer Science
+- **Degree:** B.a Economics
+- **Field of Study:** Economics
 - **Institution:** University of Ghana
 
 ## Get in Touch
